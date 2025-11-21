@@ -1,0 +1,15 @@
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\bin\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.exe
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\bin\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.deps.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\bin\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.runtimeconfig.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\bin\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\bin\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.pdb
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.AssemblyInfoInputs.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.AssemblyInfo.cs
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.csproj.CoreCompileInputs.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.sourcelink.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\refint\Codigo_Aulas_DotNet_C#_GitHub_Copilot.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.pdb
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\Codigo_Aulas_DotNet_C#_GitHub_Copilot.genruntimeconfig.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\obj\Debug\net10.0\ref\Codigo_Aulas_DotNet_C#_GitHub_Copilot.dll
