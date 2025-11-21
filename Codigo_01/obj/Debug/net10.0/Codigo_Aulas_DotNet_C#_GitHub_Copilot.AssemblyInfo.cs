@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Codigo_Aulas_DotNet_C#_GitHub_Copilot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8e5cb7fd2ebb6abe1a3ac6dfbd8b2a485e3f0a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fa84ae2d3a9b31795a4de15711cc8f5511dac73")]
 [assembly: System.Reflection.AssemblyProductAttribute("Codigo_Aulas_DotNet_C#_GitHub_Copilot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Codigo_Aulas_DotNet_C#_GitHub_Copilot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
