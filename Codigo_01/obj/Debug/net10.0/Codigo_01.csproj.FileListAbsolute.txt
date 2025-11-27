@@ -1,0 +1,15 @@
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\bin\Debug\net10.0\Codigo_01.exe
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\bin\Debug\net10.0\Codigo_01.deps.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\bin\Debug\net10.0\Codigo_01.runtimeconfig.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\bin\Debug\net10.0\Codigo_01.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\bin\Debug\net10.0\Codigo_01.pdb
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.AssemblyInfoInputs.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.AssemblyInfo.cs
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.csproj.CoreCompileInputs.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.sourcelink.json
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\refint\Codigo_01.dll
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.pdb
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\Codigo_01.genruntimeconfig.cache
+C:\Users\jac0625\Downloads\Codigo_Aulas_DotNet_C#_GitHub_Copilot\Codigo_01\obj\Debug\net10.0\ref\Codigo_01.dll
