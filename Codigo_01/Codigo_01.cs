@@ -1,3 +1,3 @@
 ﻿// dotnet new console - Cria o projeto .NET
-// dotnet run
+// dotnet run - Executa o projeto
 Console.WriteLine("Hello, World!");
